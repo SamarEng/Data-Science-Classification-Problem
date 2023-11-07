@@ -1,2 +1,4 @@
 # Data-Science-Classification-Problem
-The goal is to predict whether the future launching of SpaceX Falcon9 will be successful or not, using the associated data about previous launches. The project contains data preprocessing, training models, evaluation, and comparing trained models according to the accuracies. 
+A data science project in the area of classification is examined. The goal is to predict whether the future launching of SpaceX Falcon9 will be successful or not, using the associated data about previous launches. 
+The used data is collected from SpaceX API and contains many effective factors like payload mass, orbit, launchpad, launch site, whether the first stage was reused or not, etc. The Class column indicates whether the mission is accomplished or not. 
+The project contains data preprocessing steps as well as training models, then evaluation using test dataset, and finally comparing achieved training models according to the accuracies. The examined models are Linear Regression, K Nearest Neighbors, Support Vector Machine (SVM), and Decision Tree.
